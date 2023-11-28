@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "569661431699",
+    "firebase_url": "https://cari-1b9a7-default-rtdb.firebaseio.com",
+    "project_id": "cari-1b9a7",
+    "storage_bucket": "cari-1b9a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569661431699:android:27d0e68a11b569ae2e1266",
+        "android_client_info": {
+          "package_name": "com.application.Caritas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569661431699-oroknt6r5u4bc3qr67urpugk58t2qnqd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.application.Caritas",
+            "certificate_hash": "92882981e122c320cead9945ccb23d453bc575f5"
+          }
+        },
+        {
+          "client_id": "569661431699-dmet9bhuuu5r052ifo1g364jsembinq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw8YTuysTh4NAlHU9um3g_kY3fddOqgMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569661431699-dmet9bhuuu5r052ifo1g364jsembinq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
